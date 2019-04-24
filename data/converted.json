@@ -1,0 +1,653 @@
+{
+  "20190301" : {
+    "band" : {
+      "sleep_end_time" : "8:51",
+      "sleep_start_time" : "21:51",
+      "sleep_time" : 660
+    },
+    "bike" : {
+      "exercise_duration" : 32.88,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 396.94
+    },
+    "curtain" : {
+      "avg_sleep_time" : 598.5,
+      "is_sunny" : false,
+      "is_weekend" : false,
+      "use_light" : true,
+      "user_set_time" : "10:50",
+      "curtain_width" : 0.0,
+      "light" : 1.0
+    }
+  },
+  "20190302" : {
+    "band" : {
+      "sleep_end_time" : "6:45",
+      "sleep_start_time" : "21:59",
+      "sleep_time" : 526
+    },
+    "bike" : {
+      "exercise_duration" : 42.99,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 598.98
+    },
+    "curtain" : {
+      "avg_sleep_time" : 598.5,
+      "is_sunny" : true,
+      "is_weekend" : true,
+      "use_light" : false,
+      "user_set_time" : "",
+      "curtain_width" : 0.8,
+      "light" : 0.0
+    }
+  },
+  "20190303" : {
+    "band" : {
+      "sleep_end_time" : "8:20",
+      "sleep_start_time" : "21:56",
+      "sleep_time" : 624
+    },
+    "bike" : {
+      "exercise_duration" : 1.99,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 667.5
+    },
+    "curtain" : {
+      "avg_sleep_time" : 598.5,
+      "is_sunny" : true,
+      "is_weekend" : true,
+      "use_light" : false,
+      "user_set_time" : "",
+      "curtain_width" : 0.5,
+      "light" : 0.0
+    }
+  },
+  "20190304" : {
+    "band" : {
+      "sleep_end_time" : "8:49",
+      "sleep_start_time" : "22:02",
+      "sleep_time" : 647
+    },
+    "bike" : {
+      "exercise_duration" : 49.96,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 333.05
+    },
+    "curtain" : {
+      "avg_sleep_time" : 603.3333333,
+      "is_sunny" : true,
+      "is_weekend" : false,
+      "use_light" : false,
+      "user_set_time" : "8:50",
+      "curtain_width" : 1.0,
+      "light" : 0.0
+    }
+  },
+  "20190305" : {
+    "band" : {
+      "sleep_end_time" : "7:21",
+      "sleep_start_time" : "22:14",
+      "sleep_time" : 547
+    },
+    "bike" : {
+      "exercise_duration" : 73.37,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 320.83
+    },
+    "curtain" : {
+      "avg_sleep_time" : 603.3333333,
+      "is_sunny" : true,
+      "is_weekend" : false,
+      "use_light" : false,
+      "user_set_time" : "7:30",
+      "curtain_width" : 1.0,
+      "light" : 0.0
+    }
+  },
+  "20190306" : {
+    "band" : {
+      "sleep_end_time" : "9:46",
+      "sleep_start_time" : "22:34",
+      "sleep_time" : 672
+    },
+    "bike" : {
+      "exercise_duration" : 65.54,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 319.6
+    },
+    "curtain" : {
+      "avg_sleep_time" : 603.3333333,
+      "is_sunny" : true,
+      "is_weekend" : false,
+      "use_light" : false,
+      "user_set_time" : "9:40",
+      "curtain_width" : 0.4,
+      "light" : 0.0
+    }
+  },
+  "20190307" : {
+    "band" : {
+      "sleep_end_time" : "8:23",
+      "sleep_start_time" : "23:35",
+      "sleep_time" : 528
+    },
+    "bike" : {
+      "exercise_duration" : 74.13,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 464.08
+    },
+    "curtain" : {
+      "avg_sleep_time" : 603.3333333,
+      "is_sunny" : true,
+      "is_weekend" : false,
+      "use_light" : false,
+      "user_set_time" : "7:30",
+      "curtain_width" : 0.6,
+      "light" : 0.0
+    }
+  },
+  "20190308" : {
+    "band" : {
+      "sleep_end_time" : "8:08",
+      "sleep_start_time" : "23:18",
+      "sleep_time" : 530
+    },
+    "bike" : {
+      "exercise_duration" : 16.02,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 314.65
+    },
+    "curtain" : {
+      "avg_sleep_time" : 603.3333333,
+      "is_sunny" : false,
+      "is_weekend" : false,
+      "use_light" : true,
+      "user_set_time" : "8:40",
+      "curtain_width" : 0.2,
+      "light" : 0.8
+    }
+  },
+  "20190309" : {
+    "band" : {
+      "sleep_end_time" : "7:29",
+      "sleep_start_time" : "21:36",
+      "sleep_time" : 593
+    },
+    "bike" : {
+      "exercise_duration" : 58.54,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 564.74
+    },
+    "curtain" : {
+      "avg_sleep_time" : 603.3333333,
+      "is_sunny" : false,
+      "is_weekend" : true,
+      "use_light" : true,
+      "user_set_time" : "",
+      "curtain_width" : 0.5,
+      "light" : 0.8
+    }
+  },
+  "20190310" : {
+    "band" : {
+      "sleep_end_time" : "8:04",
+      "sleep_start_time" : "23:05",
+      "sleep_time" : 539
+    },
+    "bike" : {
+      "exercise_duration" : 76.99,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 383.72
+    },
+    "curtain" : {
+      "avg_sleep_time" : 603.3333333,
+      "is_sunny" : false,
+      "is_weekend" : true,
+      "use_light" : true,
+      "user_set_time" : "",
+      "curtain_width" : 0.5,
+      "light" : 0.8
+    }
+  },
+  "20190311" : {
+    "band" : {
+      "sleep_end_time" : "7:57",
+      "sleep_start_time" : "23:14",
+      "sleep_time" : 523
+    },
+    "bike" : {
+      "exercise_duration" : 52.58,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 281.81
+    },
+    "curtain" : {
+      "avg_sleep_time" : 579.4285714,
+      "is_sunny" : true,
+      "is_weekend" : false,
+      "use_light" : false,
+      "user_set_time" : "8:00",
+      "curtain_width" : 0.8,
+      "light" : 0.0
+    }
+  },
+  "20190312" : {
+    "band" : {
+      "sleep_end_time" : "7:06",
+      "sleep_start_time" : "23:45",
+      "sleep_time" : 441
+    },
+    "bike" : {
+      "exercise_duration" : 19.02,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 322.86
+    },
+    "curtain" : {
+      "avg_sleep_time" : 579.4285714,
+      "is_sunny" : true,
+      "is_weekend" : false,
+      "use_light" : false,
+      "user_set_time" : "8:20",
+      "curtain_width" : 0.6,
+      "light" : 0.0
+    }
+  },
+  "20190313" : {
+    "band" : {
+      "sleep_end_time" : "8:29",
+      "sleep_start_time" : "23:08",
+      "sleep_time" : 561
+    },
+    "bike" : {
+      "exercise_duration" : 63.44,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 592.14
+    },
+    "curtain" : {
+      "avg_sleep_time" : 579.4285714,
+      "is_sunny" : true,
+      "is_weekend" : false,
+      "use_light" : false,
+      "user_set_time" : "8:30",
+      "curtain_width" : 0.9,
+      "light" : 0.0
+    }
+  },
+  "20190314" : {
+    "band" : {
+      "sleep_end_time" : "8:07",
+      "sleep_start_time" : "21:16",
+      "sleep_time" : 651
+    },
+    "bike" : {
+      "exercise_duration" : 28.95,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 378.4
+    },
+    "curtain" : {
+      "avg_sleep_time" : 579.4285714,
+      "is_sunny" : false,
+      "is_weekend" : false,
+      "use_light" : true,
+      "user_set_time" : "8:00",
+      "curtain_width" : 0.0,
+      "light" : 1.0
+    }
+  },
+  "20190315" : {
+    "band" : {
+      "sleep_end_time" : "6:38",
+      "sleep_start_time" : "22:29",
+      "sleep_time" : 489
+    },
+    "bike" : {
+      "exercise_duration" : 23.51,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 166.6
+    },
+    "curtain" : {
+      "avg_sleep_time" : 579.4285714,
+      "is_sunny" : true,
+      "is_weekend" : false,
+      "use_light" : false,
+      "user_set_time" : "8:25",
+      "curtain_width" : 0.7,
+      "light" : 0.2
+    }
+  },
+  "20190316" : {
+    "band" : {
+      "sleep_end_time" : "6:40",
+      "sleep_start_time" : "22:34",
+      "sleep_time" : 486
+    },
+    "bike" : {
+      "exercise_duration" : 3.08,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 298.86
+    },
+    "curtain" : {
+      "avg_sleep_time" : 579.4285714,
+      "is_sunny" : false,
+      "is_weekend" : true,
+      "use_light" : true,
+      "user_set_time" : "",
+      "curtain_width" : 0.2,
+      "light" : 1.0
+    }
+  },
+  "20190317" : {
+    "band" : {
+      "sleep_end_time" : "7:39",
+      "sleep_start_time" : "22:24",
+      "sleep_time" : 555
+    },
+    "bike" : {
+      "exercise_duration" : 22.7,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 359.08
+    },
+    "curtain" : {
+      "avg_sleep_time" : 579.4285714,
+      "is_sunny" : true,
+      "is_weekend" : true,
+      "use_light" : false,
+      "user_set_time" : "",
+      "curtain_width" : 0.8,
+      "light" : 0.0
+    }
+  },
+  "20190318" : {
+    "band" : {
+      "sleep_end_time" : "9:44",
+      "sleep_start_time" : "21:46",
+      "sleep_time" : 718
+    },
+    "bike" : {
+      "exercise_duration" : 43.54,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 621.23
+    },
+    "curtain" : {
+      "avg_sleep_time" : 538.8571429,
+      "is_sunny" : true,
+      "is_weekend" : false,
+      "use_light" : false,
+      "user_set_time" : "8:00",
+      "curtain_width" : 1.0,
+      "light" : 0.0
+    }
+  },
+  "20190319" : {
+    "band" : {
+      "sleep_end_time" : "6:09",
+      "sleep_start_time" : "23:13",
+      "sleep_time" : 416
+    },
+    "bike" : {
+      "exercise_duration" : 52.73,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 599.7
+    },
+    "curtain" : {
+      "avg_sleep_time" : 538.8571429,
+      "is_sunny" : true,
+      "is_weekend" : false,
+      "use_light" : false,
+      "user_set_time" : "8:20",
+      "curtain_width" : 0.9,
+      "light" : 0.0
+    }
+  },
+  "20190320" : {
+    "band" : {
+      "sleep_end_time" : "8:09",
+      "sleep_start_time" : "23:35",
+      "sleep_time" : 514
+    },
+    "bike" : {
+      "exercise_duration" : 1.49,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 375.72
+    },
+    "curtain" : {
+      "avg_sleep_time" : 538.8571429,
+      "is_sunny" : true,
+      "is_weekend" : false,
+      "use_light" : false,
+      "user_set_time" : "9:00",
+      "curtain_width" : 0.9,
+      "light" : 0.0
+    }
+  },
+  "20190321" : {
+    "band" : {
+      "sleep_end_time" : "8:14",
+      "sleep_start_time" : "22:50",
+      "sleep_time" : 564
+    },
+    "bike" : {
+      "exercise_duration" : 49.71,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 406.01
+    },
+    "curtain" : {
+      "avg_sleep_time" : 538.8571429,
+      "is_sunny" : true,
+      "is_weekend" : false,
+      "use_light" : false,
+      "user_set_time" : "9:50",
+      "curtain_width" : 0.7,
+      "light" : 0.0
+    }
+  },
+  "20190322" : {
+    "band" : {
+      "sleep_end_time" : "7:51",
+      "sleep_start_time" : "22:32",
+      "sleep_time" : 559
+    },
+    "bike" : {
+      "exercise_duration" : 47.58,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 492.92
+    },
+    "curtain" : {
+      "avg_sleep_time" : 538.8571429,
+      "is_sunny" : true,
+      "is_weekend" : false,
+      "use_light" : false,
+      "user_set_time" : "9:00",
+      "curtain_width" : 0.9,
+      "light" : 0.1
+    }
+  },
+  "20190323" : {
+    "band" : {
+      "sleep_end_time" : "6:52",
+      "sleep_start_time" : "23:18",
+      "sleep_time" : 454
+    },
+    "bike" : {
+      "exercise_duration" : 35.52,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 571.55
+    },
+    "curtain" : {
+      "avg_sleep_time" : 538.8571429,
+      "is_sunny" : false,
+      "is_weekend" : true,
+      "use_light" : true,
+      "user_set_time" : "",
+      "curtain_width" : 0.0,
+      "light" : 1.0
+    }
+  },
+  "20190324" : {
+    "band" : {
+      "sleep_end_time" : "8:42",
+      "sleep_start_time" : "23:35",
+      "sleep_time" : 547
+    },
+    "bike" : {
+      "exercise_duration" : 70.58,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 404.42
+    },
+    "curtain" : {
+      "avg_sleep_time" : 538.8571429,
+      "is_sunny" : false,
+      "is_weekend" : true,
+      "use_light" : true,
+      "user_set_time" : "",
+      "curtain_width" : 0.2,
+      "light" : 0.6
+    }
+  },
+  "20190325" : {
+    "band" : {
+      "sleep_end_time" : "7:54",
+      "sleep_start_time" : "23:18",
+      "sleep_time" : 516
+    },
+    "bike" : {
+      "exercise_duration" : 70.84,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 347.74
+    },
+    "curtain" : {
+      "avg_sleep_time" : 527.7142857,
+      "is_sunny" : true,
+      "is_weekend" : false,
+      "use_light" : false,
+      "user_set_time" : "8:30",
+      "curtain_width" : 0.5,
+      "light" : 0.5
+    }
+  },
+  "20190326" : {
+    "band" : {
+      "sleep_end_time" : "7:26",
+      "sleep_start_time" : "23:57",
+      "sleep_time" : 449
+    },
+    "bike" : {
+      "exercise_duration" : 42.49,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 270.36
+    },
+    "curtain" : {
+      "avg_sleep_time" : 527.7142857,
+      "is_sunny" : true,
+      "is_weekend" : false,
+      "use_light" : false,
+      "user_set_time" : "8:30",
+      "curtain_width" : 0.6,
+      "light" : 0.3
+    }
+  },
+  "20190327" : {
+    "band" : {
+      "sleep_end_time" : "8:26",
+      "sleep_start_time" : "22:57",
+      "sleep_time" : 569
+    },
+    "bike" : {
+      "exercise_duration" : 49.04,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 584.39
+    },
+    "curtain" : {
+      "avg_sleep_time" : 527.7142857,
+      "is_sunny" : false,
+      "is_weekend" : false,
+      "use_light" : true,
+      "user_set_time" : "8:30",
+      "curtain_width" : 0.7,
+      "light" : 0.8
+    }
+  },
+  "20190328" : {
+    "band" : {
+      "sleep_end_time" : "8:09",
+      "sleep_start_time" : "22:35",
+      "sleep_time" : 574
+    },
+    "bike" : {
+      "exercise_duration" : 47.56,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 651.69
+    },
+    "curtain" : {
+      "avg_sleep_time" : 527.7142857,
+      "is_sunny" : false,
+      "is_weekend" : false,
+      "use_light" : true,
+      "user_set_time" : "8:30",
+      "curtain_width" : 0.4,
+      "light" : 0.9
+    }
+  },
+  "20190329" : {
+    "band" : {
+      "sleep_end_time" : "8:43",
+      "sleep_start_time" : "22:06",
+      "sleep_time" : 637
+    },
+    "bike" : {
+      "exercise_duration" : 78.51,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 177.71
+    },
+    "curtain" : {
+      "avg_sleep_time" : 527.7142857,
+      "is_sunny" : true,
+      "is_weekend" : false,
+      "use_light" : false,
+      "user_set_time" : "8:30",
+      "curtain_width" : 0.8,
+      "light" : 0.2
+    }
+  },
+  "20190330" : {
+    "band" : {
+      "sleep_end_time" : "7:40",
+      "sleep_start_time" : "23:19",
+      "sleep_time" : 501
+    },
+    "bike" : {
+      "exercise_duration" : 56.98,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 189.71
+    },
+    "curtain" : {
+      "avg_sleep_time" : 527.7142857,
+      "is_sunny" : true,
+      "is_weekend" : true,
+      "use_light" : false,
+      "user_set_time" : "",
+      "curtain_width" : 0.7,
+      "light" : 0.4
+    }
+  },
+  "20190331" : {
+    "band" : {
+      "sleep_end_time" : "7:02",
+      "sleep_start_time" : "23:34",
+      "sleep_time" : 448
+    },
+    "bike" : {
+      "exercise_duration" : 70.57,
+      "monthly_active_calorie_goal" : 550,
+      "today_active_calorie" : 89.01
+    },
+    "curtain" : {
+      "avg_sleep_time" : 527.7142857,
+      "is_sunny" : true,
+      "is_weekend" : true,
+      "use_light" : false,
+      "user_set_time" : "",
+      "curtain_width" : 0.6,
+      "light" : 0.6
+    }
+  }
+}
