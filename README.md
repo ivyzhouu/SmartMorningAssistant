@@ -6,6 +6,7 @@ Our smart home IoT scenario is built on the ambition to create a more comfortabl
 
 To better wake you up, instead of using loud alarm noises, we envision a smart curtain (which is already in development by several companies), to automatically open and bring in natural lights when the weather permits. To keep you focused on your exercise goal, we use the watch and continue to track your active calories burnt on smart bikes. 
 
+![dashboard](https://github.com/ivyzhouu/SmartMorningAssistant/tree/master/img/dashboard.png)
 
 ### Techical Tools
 
@@ -18,11 +19,14 @@ To better wake you up, instead of using loud alarm noises, we envision a smart c
 - Easytimer 
 - Bootstrap Toggle
 
-#### Cloud Database
+#### Cloud Database:
 Firebase
 
-#### Chart
+#### Chart:
 [Chart.js](https://www.chartjs.org)
 
-#### API
+#### API:
 [OpenWeatherMap](https://openweathermap.org/)
+
+### How to run it locally
+`npm install`, then `npm start`
