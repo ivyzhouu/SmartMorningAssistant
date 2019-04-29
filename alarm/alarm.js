@@ -28,8 +28,9 @@ saveSetTime = function(){
   var curtainsRef = ref.child('curtain');
   // weekend:true, weekday:false
   var isWeekend = ([0,6].indexOf(new Date().getDay()) != -1);
+
   curtain = { is_weekend: isWeekend,
-              avg_sleep_time: '530.71',
+              avg_sleep_time: '530.71',   // should generate from the sleep time of past 5 weekdays.
               user_set_time: set_time,
             }
   curtainsRef.update(curtain)  

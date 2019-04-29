@@ -56,6 +56,10 @@ var ctx = document.getElementById("myBarChart");
 var myBarChart = new Chart(ctx, {
   type: 'bar',
   data: {
+
+// Here we hard code the chart data by our simulated band data. 
+// Because to get the latest data of chart, we have to buy a smart band so that we can save the data up to date.
+
     labels: ["Mar 1", "Mar 2", "Mar 3", "Mar 4", "Mar 5", "Mar 6", "Mar 7", "Mar 8", "Mar 9", "Mar 10", "Mar 11", "Mar 12", "Mar 13", "Mar 14"],
     datasets: [{
       label: "Duration",

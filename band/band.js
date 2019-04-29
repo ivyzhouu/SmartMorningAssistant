@@ -21,3 +21,15 @@ ref.on('value', function(snapshot) {
   $(' .endTime').html(sleepEndTime + ' AM');
   $(' .duration').html(sleepDuration.toPrecision(2) + ' hours');
 });
+
+$(' .setButton').click(function () {
+  var goal = document.getElementById("setGoal").value
+
+  now = new Date;
+  dateKey = now.getFullYear() + '0' + (now.getMonth()+1) + (now.getDate()+1);
+  var ref = firebase.database().ref().child(dateKey);
+  var bikeRef = ref.child('bike');
+  goal = { monthly_active_calorie_goal : goal }
+  bikeRef.update(goal)  
+
+});

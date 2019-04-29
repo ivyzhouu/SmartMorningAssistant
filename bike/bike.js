@@ -61,7 +61,6 @@ saveExerciseDuration = function(currentDuration){
       duration = currentDuration
       // create child bike
       bike = {  exercise_duration: duration,
-                monthly_active_calorie_goal: '550',
                 today_active_calorie: (1.2 * duration).toPrecision(2),
       }
       bikeRef.update(bike)  
